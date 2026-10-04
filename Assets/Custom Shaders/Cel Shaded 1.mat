@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cel Shaded 1
+  m_Shader: {fileID: 4800000, guid: 37a128638c50a5748b9e426f0ec2cd5a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EmissionTex:
+        m_Texture: {fileID: 2800000, guid: 3e25e086aa2383142b62e96cc18dd901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ccf78ade94434e647a335f5c5528beb4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AmbientStrength: 0.24
+    - _DiffuseSmoothness: 1.53
+    - _DiffuseThreshold: 0.01
+    - _EmissionIntensity: 25
+    - _FresnelIntensity: 1
+    - _FresnelSmoothness: 7
+    - _FresnelThreshold: 0.2
+    - _Gloss: 1
+    - _LightCutoffValue: 0.01
+    - _LightFalloffValue: 0.01
+    - _OutlineWidth: 0.01
+    - _SpecularSmoothness: 3.67
+    - _SpecularThreshold: 0.7
+    m_Colors:
+    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 0.15284245, b: 0.12893075, a: 1}
+    - _FresnelColor: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
