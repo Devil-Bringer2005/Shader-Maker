@@ -53,8 +53,8 @@ Material:
     - _Threshold: 0.07
     - _Transparency: 0.35
     m_Colors:
-    - _EmissionColor: {r: 7.129739, g: 2.385755, b: 0, a: 1}
+    - _EmissionColor: {r: 14.259473, g: 1.0098351, b: 0, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
-    - _ScrollSpeed: {r: 0.4, g: 0, b: 0, a: 0}
+    - _ScrollSpeed: {r: 5, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

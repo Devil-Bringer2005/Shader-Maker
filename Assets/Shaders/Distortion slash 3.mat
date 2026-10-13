@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionTex:
-        m_Texture: {fileID: 2800000, guid: 8fa01b83de507be449707fbdfb683808, type: 3}
+        m_Texture: {fileID: 2800000, guid: 14416ca30e32f81439d54f91e2542ac4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -36,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 2800000, guid: 2537f97074a27a5478fbebdb71e2c71f, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
@@ -51,10 +51,10 @@ Material:
     - _Smoothness: 0.06
     - _SrcFactor: 5
     - _Threshold: 0.024
-    - _Transparency: 0.35
+    - _Transparency: 0.15
     m_Colors:
     - _EmissionColor: {r: 13.521708, g: 0, b: 0, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
-    - _ScrollSpeed: {r: 0.4, g: 0, b: 0, a: 0}
+    - _ScrollSpeed: {r: 5, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
